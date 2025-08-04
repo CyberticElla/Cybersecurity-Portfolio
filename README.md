@@ -1,6 +1,6 @@
 # Hi Welcome to my portfolio...! 
 
-My name is [Emmanuella Eke](https://github.com/CyberticElla) and I'm a Cybersecurity and IT Analyst with a background in healthcare. 
+My name is [Emmanuella Eke](https://github.com/CybertikElla) and I'm a Cybersecurity and IT Analyst with a background in healthcare. 
 
 In this repo, I have put together a couple of my work and will continue to update as I go.
 
