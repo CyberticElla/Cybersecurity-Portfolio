@@ -10,9 +10,6 @@ Looking out for internships and entry-level analyst/compliance roles.
 
 ---
 
-
----
-
 #### Connect with me 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuella-eke-c)  
 - 📧 [Email](mailto:pharm.ella.eke@gmail.com)
