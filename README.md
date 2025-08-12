@@ -4,7 +4,7 @@ My name is [Emmanuella Eke](https://github.com/CybertikElla) and I'm a Cybersecu
 
 In this repo, I have put together a couple of my work and will continue to update as I go.
 
-I'm interested in Healthcare IT security, Security Analysis, Incident response, Risk assessments, and Compliance.
+I'm interested in Healthcare IT security, Security Operations Analysis, Incident response, Risk assessments, and Compliance.
 
 Looking out for internships and entry-level analyst/compliance roles.
 
